@@ -1,0 +1,11 @@
+#buttons {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border : 1px solid #000;
+  border-radius: 5px;
+  background-color: #aaa;
+  z-index: 100;
+  padding: 5px 5px 5px 10px;
+  margin: 5px;
+}
